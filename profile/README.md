@@ -15,5 +15,5 @@ We build lightning-fast digital assets and premium portfolio websites that help 
 * **Cloud & DevOps:** Vercel, AWS, GitHub Actions, Docker
 
 ### 🌍 Connect With Us
-* **Website:** [leimarics.vercel.app](https://leimarics.vercel.app/)
+* **Website:** [www.leimarics.com](https://www.leimarics.com/)
 * **Founder:** Leo Francis
